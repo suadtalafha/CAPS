@@ -1,0 +1,27 @@
+{
+  "name": "CAPS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caps.js",
+  "scripts": {
+    "test": "jest  --coverage "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suadtalafha/CAPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suadtalafha/CAPS/issues"
+  },
+  "homepage": "https://github.com/suadtalafha/CAPS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "jest": "^27.1.0",
+    "supertest": "^6.1.6"
+  }
+}
